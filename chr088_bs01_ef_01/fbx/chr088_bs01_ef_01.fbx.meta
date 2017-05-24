@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 8be858bcb8402194980c1591f0c4818a
+timeCreated: 1485341096
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: o_slash_00
+    100004: o_slash_01
+    100006: o_wind
+    100008: o_wind_00
+    100010: o_wind_01
+    100012: locator1
+    100014: o_sowrd_aura
+    100016: o_slash_02
+    100018: o_sowrd_aura_01
+    100020: o_panel
+    400000: //RootNode
+    400002: o_slash_00
+    400004: o_slash_01
+    400006: o_wind
+    400008: o_wind_00
+    400010: o_wind_01
+    400012: locator1
+    400014: o_sowrd_aura
+    400016: o_slash_02
+    400018: o_sowrd_aura_01
+    400020: o_panel
+    2300000: o_slash_00
+    2300002: o_slash_01
+    2300004: o_wind
+    2300006: o_wind_00
+    2300008: o_wind_01
+    2300010: o_sowrd_aura
+    2300012: o_slash_02
+    2300014: o_sowrd_aura_01
+    2300016: o_panel
+    3300000: o_slash_00
+    3300002: o_slash_01
+    3300004: o_wind
+    3300006: o_wind_00
+    3300008: o_wind_01
+    3300010: o_sowrd_aura
+    3300012: o_slash_02
+    3300014: o_sowrd_aura_01
+    3300016: o_panel
+    4300000: o_slash_00
+    4300002: o_slash_01
+    4300004: o_wind
+    4300006: o_wind_00
+    4300008: o_wind_01
+    4300010: o_sowrd_aura
+    4300012: o_slash_02
+    4300014: o_sowrd_aura_01
+    4300016: o_panel
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

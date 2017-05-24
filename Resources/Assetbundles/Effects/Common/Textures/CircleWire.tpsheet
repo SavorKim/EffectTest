@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:84e124dc9c9204615cf6718abc778a69:cbe9716e661fc7ca5c174acb19bec4a9:bcadb96691079f3627c5c7716ec5f710$
+#
+:format=40300
+:texture=CircleWire.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+CircleWire;0;4;508;508; 1.0078740157480315;-0.007874015748031482; 0;0;0;0; 19;508;496;384;482;319;460;257;429;173;367;104;289;64;223;34;149;21;99;11;0;0;0;7;101;40;201;83;288;146;359;199;406;272;453;386;503;508;508; 17;2;16;17;4;14;15;6;12;13;9;10;11;8;9;11;7;8;11;7;11;12;6;7;12;5;6;13;5;13;14;4;5;14;3;4;15;3;15;16;2;3;16;1;2;17;0;17;18;0;1;17

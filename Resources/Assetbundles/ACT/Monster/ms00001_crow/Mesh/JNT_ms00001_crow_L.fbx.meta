@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 0562a0d50a8072648acba43de5896e30
+timeCreated: 1481272574
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Head
+    100004: JNT_Bullet
+    100006: JNT_DamageEffect
+    100008: JNT_FaceSwitch
+    100010: JNT_Head
+    100012: JNT_Hip
+    100014: JNT_HitEffect
+    100016: //RootNode
+    100018: JNT_Root
+    100020: JNT_Skirt_B_01
+    100022: JNT_Skirt_B_02
+    100024: JNT_Skirt_B_03
+    100026: JNT_Skirt_F_01
+    100028: JNT_Skirt_F_02
+    100030: JNT_Skirt_F_03
+    100032: JNT_Skirt_L1_01
+    100034: JNT_Skirt_L1_02
+    100036: JNT_Skirt_L1_03
+    100038: JNT_Skirt_L2_01
+    100040: JNT_Skirt_L2_02
+    100042: JNT_Skirt_L2_03
+    100044: JNT_Skirt_R1_01
+    100046: JNT_Skirt_R1_02
+    100048: JNT_Skirt_R1_03
+    100050: JNT_Skirt_R2_01
+    100052: JNT_Skirt_R2_02
+    100054: JNT_Skirt_R2_03
+    100056: JNT_Spine_01
+    100058: JNT_Spine_02
+    100060: JNT_tail
+    100062: model
+    100064: Skirt
+    100066: JNT_Neck
+    100068: JNT_Skirt_B_04
+    100070: JNT_Skirt_F_04
+    100072: JNT_Skirt_L_01
+    100074: JNT_Skirt_L_02
+    100076: JNT_Skirt_L_03
+    100078: JNT_Skirt_L_04
+    100080: JNT_Skirt_R_01
+    100082: JNT_Skirt_R_02
+    100084: JNT_Skirt_R_03
+    100086: JNT_Skirt_R_04
+    400000: Body
+    400002: Head
+    400004: JNT_Bullet
+    400006: JNT_DamageEffect
+    400008: JNT_FaceSwitch
+    400010: JNT_Head
+    400012: JNT_Hip
+    400014: JNT_HitEffect
+    400016: //RootNode
+    400018: JNT_Root
+    400020: JNT_Skirt_B_01
+    400022: JNT_Skirt_B_02
+    400024: JNT_Skirt_B_03
+    400026: JNT_Skirt_F_01
+    400028: JNT_Skirt_F_02
+    400030: JNT_Skirt_F_03
+    400032: JNT_Skirt_L1_01
+    400034: JNT_Skirt_L1_02
+    400036: JNT_Skirt_L1_03
+    400038: JNT_Skirt_L2_01
+    400040: JNT_Skirt_L2_02
+    400042: JNT_Skirt_L2_03
+    400044: JNT_Skirt_R1_01
+    400046: JNT_Skirt_R1_02
+    400048: JNT_Skirt_R1_03
+    400050: JNT_Skirt_R2_01
+    400052: JNT_Skirt_R2_02
+    400054: JNT_Skirt_R2_03
+    400056: JNT_Spine_01
+    400058: JNT_Spine_02
+    400060: JNT_tail
+    400062: model
+    400064: Skirt
+    400066: JNT_Neck
+    400068: JNT_Skirt_B_04
+    400070: JNT_Skirt_F_04
+    400072: JNT_Skirt_L_01
+    400074: JNT_Skirt_L_02
+    400076: JNT_Skirt_L_03
+    400078: JNT_Skirt_L_04
+    400080: JNT_Skirt_R_01
+    400082: JNT_Skirt_R_02
+    400084: JNT_Skirt_R_03
+    400086: JNT_Skirt_R_04
+    2300000: Body
+    2300002: Head
+    2300004: Skirt
+    3300000: Body
+    3300002: Head
+    3300004: Skirt
+    4300000: Head
+    4300002: Body
+    4300004: Skirt
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Head
+    13700004: Skirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: JNT_Hip
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

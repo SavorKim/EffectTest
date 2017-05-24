@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MI_Emmisive
+  m_Shader: {fileID: 4800000, guid: a5a611b6abc2e394883f891a67993f85, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _line
+      second:
+        m_Texture: {fileID: 2800000, guid: a1877bcd95c0b7e45ad895072c6ffc30, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_1480
+      second:
+        m_Texture: {fileID: 2800000, guid: a1877bcd95c0b7e45ad895072c6ffc30, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5935
+      second:
+        m_Texture: {fileID: 2800000, guid: a1877bcd95c0b7e45ad895072c6ffc30, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8121
+      second:
+        m_Texture: {fileID: 2800000, guid: 6e9f34d8b40adea45aaf993ef3cc49c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Line
+      second: 1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Emissive
+      second: {r: 1, g: 1, b: 1, a: 0}
+    - first:
+        name: _Line_emissive
+      second: {r: 2, g: 2, b: 2, a: 0}
+    - first:
+        name: _colorEmissive
+      second: {r: 1, g: 1, b: 1, a: 0}
+    - first:
+        name: _node_9241
+      second: {r: 1, g: 0, b: 0, a: 0}
